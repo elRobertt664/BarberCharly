@@ -19,4 +19,7 @@ use App\Http\Controller\Citascontroller;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/home', function () {
+    return view('home');
+});
 Route::Resource('welcome', 'App\Http\Controllers\Citascontroller');

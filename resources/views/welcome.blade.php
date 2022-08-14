@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8">
@@ -16,7 +16,7 @@
 <nav class="navbar navbar-expand-lg bg-dark text-white">
     <div class="container-fluid ">
         <a class="navbar-brand" href="#">
-            <img src="https://img.freepik.com/vector-premium/barber-shop-polo_7433-50.jpg?w=2000" alt=""
+            <img src="https://lh3.googleusercontent.com/AWcnRZ1A40GZvOWKhQ-_KGxEgAULlthnBp_LbsaW9P09pL9Ye_cr1WNXlUyA9P4HF4aGhsGw7OibP6hlbEvNv94iJ7XLwZc26TsNdnOWyVs6IwEg3ONioLOk_1M4tsvnHW_i0nZ5bpe8II2qcZZHu5QMmiJmaXRQbPVz6NMsli_3gpAja9YFr7OQceC33-nbENEn5nkTXprL8IX36MHvPKhdvsgDE8hgYERKao0TFWEBAlgUk2NyUIyRDBm8impd-dUfdGqcwKtyK7JRu88m6Ca3FmgVNpJs-KFi11_fFCiDktCo0CeK3YjRCtUOeyyPpnGiM-BG53dUj0_MYjo5y51fzNgtqTgvhYN5SXH8lb2NCSYjmEe3cShNKoy7p5kzjYpPjRENEWDmwWM9OKjVInMHR4IJTCRtmI3apGcjUgTArsDd90D0zBGZC88tVAU3I-W6OUg_xK56VxApCXlHfz1G9Mert9Sql0orSQ5vNWMzUBFdJ9AebR-PHMdtGN8VLq6PjoB4FnvA40EHjcBKpUogA3YNZaHa9NY18yYL_SJVyXdTRuwe8g-6EpfXoN1JKJ7gsLP0X-jIVxnRegCx7KB66-fyBpOgPq_JxgWGV8Csd4QOxILvVrccTSOQz-3jBu0oUauEfKXNqfWiahudwoUwfNdAXkJTdfYTd5ydmKIiIqOZKPXmc1rnJVS38bQUqabNLeVRcQBM3_opbdwbXxvN4DWfrPusr9by3G8xU9WhoUDhlsU2ydETqeYYdeDRWLGvnm-NeDtvvvWjgK9GHIIrJUChz3be=s500-no?authuser=1" alt=""
                 width="120" height="85" class="d-inline-block align-text-top">
 
         </a>
