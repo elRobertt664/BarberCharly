@@ -40,7 +40,7 @@
                       <a class="nav-link active" aria-current="page" href="{{ url('/welcome') }}">Home</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link text-secondary" href="">Acceder</a>
+                      <a class="nav-link text-secondary" href="{{ url('/login') }}">Acceder</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link text-secondary" href="#">Precios</a>

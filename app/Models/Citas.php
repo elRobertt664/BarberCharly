@@ -8,6 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class Citas extends Model
 {
     use HasFactory;
-    protected $fillable = ['nombre', 'fecha_hora', 'precio', 'completado'];
-
+    protected $fillable = ['nombre', 'fecha', 'hora', 'precio', 'completado'];
+    protected $guarded = ["id"];
 }

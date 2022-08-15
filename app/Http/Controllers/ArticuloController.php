@@ -7,6 +7,8 @@ use App\Models\Articulo;
 
 class ArticuloController extends Controller
 {
+
+
     /**
      * Display a listing of the resource.
      *
